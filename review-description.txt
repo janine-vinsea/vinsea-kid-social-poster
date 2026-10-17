@@ -1,0 +1,12 @@
+APP REVIEW DESCRIPTION — Vinsea Kid TikTok Poster
+
+Vinsea Kid TikTok Poster is an internal content management tool built for Vinsea Kid, a Vietnamese brand selling educational supplies and toys for children. Our team produces dozens of short marketing videos every week (product demos, unboxing, parenting tips), and this app streamlines publishing them to our official TikTok brand account (@vinseakidshop) through TikTok's Content Posting API with Direct Post enabled.
+
+Requested scopes and justification:
+- user.info.basic: Used only to display the connected brand account's name in our dashboard so the team can confirm videos are published to the correct official account. No other user data is read.
+- video.upload: Required to upload our self-produced MP4 marketing videos to TikTok's servers prior to publishing.
+- video.publish: Required to publish the uploaded videos directly to our own brand account feed, replacing the current fully manual upload process in TikTok Studio.
+
+All content published through this app is 100% original, created by our in-house team (filmed, edited, and captioned by us). We do not repost third-party content, run spam or engagement manipulation, or interact with other users' accounts in any way. The app is used solely by authorized Vinsea Kid staff on our own account.
+
+We fully comply with TikTok's Developer Terms, API Terms, and Community Guidelines. Our Terms of Service and Privacy Policy (linked in this submission) document that we collect no third-party user data, store OAuth tokens securely, and never share data externally. We respectfully request approval of these scopes for our legitimate business publishing use case.
